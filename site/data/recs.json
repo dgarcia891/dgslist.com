@@ -1,0 +1,24 @@
+{
+  "sample": true,
+  "updated": "2026-11-02T12:00:00Z",
+  "disclosure": "",
+  "categories": [
+    { "id": "products", "name": "Products & Gear", "emoji": "🛒" },
+    { "id": "local", "name": "Local Spots", "emoji": "📍" },
+    { "id": "media", "name": "Books, Shows & Podcasts", "emoji": "📚" },
+    { "id": "travel", "name": "Travel", "emoji": "✈️" }
+  ],
+  "items": [
+    { "id": "sample-coffee", "category": "products", "top": true, "title": "Sample: Burr coffee grinder", "blurb": "The single biggest upgrade to morning coffee. Consistent grind, easy to clean.", "note": "The single biggest upgrade to morning coffee.\n\nThis is **sample text** — on the real site, this is where the Trello card description goes: why I like it, who it's for, and anything to watch out for.", "tags": ["Kitchen", "Under $150"], "link": "https://example.com" },
+    { "id": "sample-headphones", "category": "products", "title": "Sample: Noise-cancelling headphones", "blurb": "For flights and focus time. Comfortable for hours.", "note": "For flights and focus time. Comfortable for hours.", "tags": ["Tech", "Travel"], "link": "https://example.com" },
+    { "id": "sample-tool", "category": "products", "title": "Sample: Cordless drill kit", "blurb": "Handles every job around the house. Get the two-battery version.", "note": "Handles every job around the house. Get the two-battery version.", "tags": ["Home", "Tools"], "link": "https://example.com" },
+    { "id": "sample-tacos", "category": "local", "top": true, "title": "Sample: Neighborhood taco spot", "blurb": "Order the al pastor. Go early on weekends — the line gets long.", "note": "Order the al pastor. Go early on weekends — the line gets long.", "tags": ["Santa Clarita", "Food"], "link": "https://example.com" },
+    { "id": "sample-mechanic", "category": "local", "title": "Sample: Honest auto mechanic", "blurb": "Tells you what doesn't need fixing. Tell them I sent you.", "note": "Tells you what doesn't need fixing. Tell them I sent you.", "tags": ["Services", "Valencia"] },
+    { "id": "sample-hike", "category": "local", "title": "Sample: Sunrise hike", "blurb": "Easy 3 miles with a great view of the valley. Bring water.", "note": "Easy 3 miles with a great view of the valley. Bring water.", "tags": ["Outdoors", "Free"] },
+    { "id": "sample-book", "category": "media", "top": true, "title": "Sample: A book everyone should read", "blurb": "Changed how I think about habits. Short chapters — easy to pick up.", "note": "Changed how I think about habits. Short chapters — easy to pick up.", "tags": ["Book", "Self-improvement"], "link": "https://example.com" },
+    { "id": "sample-show", "category": "media", "title": "Sample: A show to binge", "blurb": "Give it two episodes. Then you're hooked.", "note": "Give it two episodes. Then you're hooked.", "tags": ["TV", "Drama"] },
+    { "id": "sample-podcast", "category": "media", "title": "Sample: Podcast for the commute", "blurb": "Smart, funny, 30-minute episodes.", "note": "Smart, funny, 30-minute episodes.", "tags": ["Podcast"] },
+    { "id": "sample-hotel", "category": "travel", "title": "Sample: Weekend getaway hotel", "blurb": "Two hours from home, feels like a different world. Ask for an ocean-view room.", "note": "Two hours from home, feels like a different world. Ask for an ocean-view room.", "tags": ["California", "Weekend"], "link": "https://example.com" },
+    { "id": "sample-tip", "category": "travel", "title": "Sample: Packing cubes", "blurb": "Sounds silly. Changes everything. Carry-on only from now on.", "note": "Sounds silly. Changes everything. Carry-on only from now on.", "tags": ["Tip", "Gear"], "link": "https://example.com" }
+  ]
+}
